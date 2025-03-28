@@ -1,10 +1,10 @@
 # ia-programadores
 IA para programadores
 ## Build
-sudo docker build -t myfastapiapp .
+sudo docker build -t cap01_challenge .
 
 ## Ejecuta el contenedor
-sudo docker run -d -p 8000:8000 myfastapiapp
+sudo docker run -d -p 8000:8000 cap01_challenge
 
 ## Lista los contenedores en ejecución:
 sudo docker ps
